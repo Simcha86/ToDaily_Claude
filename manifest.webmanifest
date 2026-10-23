@@ -1,6 +1,6 @@
 {
   "name": "TagesRoutineSimon",
-  "short_name": "TagesRoutineSimon",
+  "short_name": "TRS",
   "description": "Persönlicher Routineplaner für tägliche Aufgaben",
   "lang": "de",
   "start_url": "./",
