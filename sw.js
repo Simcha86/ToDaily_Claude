@@ -1,5 +1,5 @@
 // Bei Änderungen an den App-Dateien die Version erhöhen, damit der neue Stand geladen wird.
-const CACHE = 'tagesroutinesimon-v1';
+const CACHE = 'trs-v1';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {

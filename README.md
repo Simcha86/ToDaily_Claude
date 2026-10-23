@@ -1,4 +1,4 @@
-# TagesRoutineSimon – lokale PWA (MVP)
+# TRS – lokale PWA (MVP)
 
 ## Start
 
