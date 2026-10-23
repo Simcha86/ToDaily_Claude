@@ -1,9 +1,9 @@
-# ToDo Daily – lokale PWA (MVP)
+# TRS – lokale PWA (MVP)
 
 ## Start
 
 1. Python 3 installieren.
-2. Im Ordner `todo-daily` ein Terminal öffnen.
+2. Im Projektordner ein Terminal öffnen.
 3. `python -m http.server 8000` ausführen.
 4. Am Notebook `http://localhost:8000` öffnen.
 
