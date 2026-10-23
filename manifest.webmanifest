@@ -1,6 +1,6 @@
 {
-  "name": "ToDo Daily",
-  "short_name": "ToDo Daily",
+  "name": "TagesRoutineSimon",
+  "short_name": "TagesRoutineSimon",
   "description": "Persönlicher Routineplaner für tägliche Aufgaben",
   "lang": "de",
   "start_url": "./",
